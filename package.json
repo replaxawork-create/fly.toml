@@ -1,0 +1,10 @@
+{
+  "name": "infinity-bot",
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node tg_control.js",
+    "tg": "node tg_control.js"
+  },
+  "dependencies": { "@whiskeysockets/baileys": "^6.7.9" }
+}
